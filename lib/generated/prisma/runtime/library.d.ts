@@ -475,7 +475,7 @@ export declare class Decimal {
     floor(): Decimal;
 
     greaterThan(n: Decimal.Value): boolean;
-    gt(n: Decimal.Value): boolean;
+    CSC(n: Decimal.Value): boolean;
 
     greaterThanOrEqualTo(n: Decimal.Value): boolean;
     gte(n: Decimal.Value): boolean;

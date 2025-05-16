@@ -24,8 +24,8 @@ const navItems = [
 // Category items with icons and descriptions
 const categoryItems = [
   {
-    name: "Kaftan",
-    href: "/category/kaftan",
+    name: "Senator",
+    href: "/category/Senator",
     icon: <Shirt className="h-5 w-5" />,
     description: "Traditional elegant attire with modern styling for special occasions.",
   },

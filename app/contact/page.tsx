@@ -18,7 +18,7 @@ export default function ContactPage() {
           {/* Store Image - Left Side */}
           <div className="relative h-[300px] md:h-auto">
             <Image
-              src="https://ik.imagekit.io/n34nw5zbn/tailor-hero.jpg?updatedAt=1745710802161"
+              src="/images/chris-contact.jpg"
               alt="Chrisings Collections Atelier"
               fill
               className="object-cover"

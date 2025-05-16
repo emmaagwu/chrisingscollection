@@ -9,18 +9,18 @@ import { getProductsByCategory } from "@/lib/product"
 
 // Sample product data
 // Get products by category
-const kaftanProducts = getProductsByCategory("kaftan")
+const kaftanProducts = getProductsByCategory("Senator")
 const agbadaProducts = getProductsByCategory("agbada")
 const suitProducts = getProductsByCategory("suit")
 const shirtProducts = getProductsByCategory("shirt")
 
 
 const showcaseItems = [
-  { id: 1, imageUrl: "https://ik.imagekit.io/n34nw5zbn/tailor-hero.jpg?updatedAt=1745710802161", altText: "Red fabric detail" },
-  { id: 2, imageUrl: "https://ik.imagekit.io/n34nw5zbn/tailor-hero.jpg?updatedAt=1745710802161", altText: "Blue fabric detail" },
-  { id: 3, imageUrl: "https://ik.imagekit.io/n34nw5zbn/tailor-hero.jpg?updatedAt=1745710802161", altText: "Green fabric detail" },
-  { id: 4, imageUrl: "https://ik.imagekit.io/n34nw5zbn/tailor-hero.jpg?updatedAt=1745710802161", altText: "Yellow fabric detail" },
-  { id: 5, imageUrl: "https://ik.imagekit.io/n34nw5zbn/tailor-hero.jpg?updatedAt=1745710802161", altText: "Purple fabric detail" },
+  { id: 1, imageUrl: "/images/christian1.png", altText: "Red fabric detail" },
+  { id: 2, imageUrl: "/images/christian2.png", altText: "Blue fabric detail" },
+  { id: 3, imageUrl: "/images/christian3.png", altText: "Green fabric detail" },
+  { id: 4, imageUrl: "/images/christian4.png", altText: "Yellow fabric detail" },
+  { id: 5, imageUrl: "/images/christian5.png", altText: "Purple fabric detail" },
 ]
 
 
@@ -32,12 +32,12 @@ export default function Home() {
   return (
     <main className='mt-13'>
       <HeroSection
-        imageUrl='https://ik.imagekit.io/n34nw5zbn/tailor-hero.jpg?updatedAt=1745710802161'
+        imageUrl='/images/christian-hero.png'
         altText='Elegant tailored clothing collection'
       />
 
-      {/* Kaftan Section */}
-      <ProductSection title="Premium Kaftans" seeMoreText="See More Kaftans" seeMoreHref="/category/kaftan">
+      {/* Senator Section */}
+      <ProductSection title="Premium Senators" seeMoreText="See More Senators" seeMoreHref="/category/Senator">
           {kaftanProducts.map((product) => (
             <WearDisplay
               key={product.id}
@@ -117,7 +117,7 @@ export default function Home() {
             altText={featuredKaftan.name}
             productId={featuredKaftan.id}
             priority={true}
-            overlayText="PREMIUM KAFTAN"
+            overlayText="PREMIUM Senator"
             overlayPosition="bottom"
             overlayTextSize="2xl"
           />

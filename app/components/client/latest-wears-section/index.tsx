@@ -26,11 +26,11 @@ import {
 >
   <LatestWearCard
     imageUrl="/images/latest1.jpg"
-    altText="White kaftan"
-    productId="kaftan-001"
+    altText="White Senator"
+    productId="Senator-001"
     aspectRatio="portrait" // Options: "square", "portrait", "landscape", "auto"
     priority={true} // Set to true for above-the-fold images
-    overlayText="PREMIUM KAFTAN"
+    overlayText="PREMIUM Senator"
     overlayPosition="bottom" // Options: "top", "center", "bottom"
     overlayTextSize="2xl" // Options: "sm", "md", "lg", "xl", "2xl", "3xl"
   />

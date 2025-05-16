@@ -33,14 +33,14 @@ export default function AboutPage() {
         <ContentSection
           title="OUR IDEAL CLIENTS ARE MEN WHO REALLY CARE ABOUT WEARING QUALITY."
           description="We cater for native wears that makes everyone feel confident, by choosing designs and styles that fit them. We strive to meet the personal needs of every client, ensuring satisfaction with every piece we create."
-          imageUrl="https://ik.imagekit.io/n34nw5zbn/tailor-hero.jpg?updatedAt=1745710802161"
+          imageUrl="/images/chris-about1.png"
           imageAlt="Man wearing purple native wear"
         />
 
         <ContentSection
           title="AFFORDABLE AND DURABLE HIGH QUALITY PRODUCTS."
           description="We deliver high-quality products that are affordable, yet made of durable materials. With our custom-made clothing, our clients will be able to find their desired fabrics, colours, and styles. We personally hand-stitch every article of clothing and focus on providing a high level of customer service, which leads to customer satisfaction."
-          imageUrl="https://ik.imagekit.io/n34nw5zbn/tailor-hero.jpg?updatedAt=1745710802161"
+          imageUrl="/images/chris-about2.png"
           imageAlt="Close-up of fabric details"
           reversed={true}
         />
@@ -48,7 +48,7 @@ export default function AboutPage() {
         <ContentSection
           title="VARIETIES OF STYLES THAT BOOST YOUR CONFIDENCE."
           description="And we have a good number of style options available, making it easy for clients to pick their choices or specify any modifications they want. We are eager to answer any questions you may have over the phone or via WhatsApp. We look forward to working with you to provide high-quality men's clothing that will deliver self-confidence and help you look your very best."
-          imageUrl="https://ik.imagekit.io/n34nw5zbn/tailor-hero.jpg?updatedAt=1745710802161"
+          imageUrl="/images/chris-about3.png"
           imageAlt="Man wearing blue traditional attire"
         />
       </main>

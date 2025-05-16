@@ -70,14 +70,14 @@ export const faqData: FAQCategory[] = [
         ),
       },
       {
-        question: "How much is your Kaftan?",
+        question: "How much is your Senator?",
         answer: (
           <>
-            <p>Our kaftan prices vary depending on the style, fabric, and level of detailing:</p>
+            <p>Our Senator prices vary depending on the style, fabric, and level of detailing:</p>
             <ul className="ml-5 list-disc space-y-1">
-              <li>Basic Kaftan: ₦25,000 - ₦35,000</li>
-              <li>Premium Kaftan: ₦40,000 - ₦60,000</li>
-              <li>Luxury Kaftan with detailed embroidery: ₦65,000 - ₦100,000+</li>
+              <li>Basic Senator: ₦25,000 - ₦35,000</li>
+              <li>Premium Senator: ₦40,000 - ₦60,000</li>
+              <li>Luxury Senator with detailed embroidery: ₦65,000 - ₦100,000+</li>
             </ul>
             <p className="mt-2">Please contact us for a specific quote based on your requirements.</p>
           </>
@@ -107,10 +107,10 @@ export const faqData: FAQCategory[] = [
         ),
       },
       {
-        question: "What&apos;s the price if I bring fabric for kaftan?",
+        question: "What&apos;s the price if I bring fabric for Senator?",
         answer: (
           <p>
-            When you provide your own fabric for a kaftan, our service charges typically range from ₦15,000 to ₦40,000,
+            When you provide your own fabric for a Senator, our service charges typically range from ₦15,000 to ₦40,000,
             depending on the style complexity, embroidery details, and finishing requirements. We&apos;ll provide a specific
             quote after discussing your design preferences.
           </p>
@@ -145,8 +145,8 @@ export const faqData: FAQCategory[] = [
           <>
             <p>Our standard production timeline is:</p>
             <ul className="ml-5 list-disc space-y-1">
-              <li>Simple Kaftan: 7-10 working days</li>
-              <li>Detailed Kaftan: 10-14 working days</li>
+              <li>Simple Senator: 7-10 working days</li>
+              <li>Detailed Senator: 10-14 working days</li>
               <li>Standard Agbada: 10-14 working days</li>
               <li>Premium Agbada with extensive embroidery: 14-21 working days</li>
             </ul>
