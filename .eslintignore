@@ -1,0 +1,6 @@
+# .eslintignore
+node_modules/
+.prisma/
+prisma/generated/
+.next/
+lib/generated/
