@@ -153,8 +153,8 @@ export default function Navbar() {
         {/* Logo */}
         <div className="flex items-center">
           <Link href="/" className="text-xl font-bold tracking-tighter md:text-2xl">
-            <span className="text-[#5D4037] font-sans">Grandeur</span>
-            <span className="text-[#5D4037] italic font-light font-sans"> Tailors</span>
+            <span className="text-[#5D4037] font-sans">Chrisings</span>
+            <span className="text-[#5D4037] italic font-light font-sans"> Collections</span>
           </Link>
         </div>
 
