@@ -4,7 +4,7 @@ import Footer from "./footer"
 const README = `
 # Footer Component
 
-A responsive, portable footer component for the Grandeur Tailors website.
+A responsive, portable footer component for the Chrisings Collections website.
 
 ## Usage
 
@@ -23,7 +23,7 @@ import { Footer } from '@/components/footer'
 - Product category links
 - Sitemap navigation
 - Copyright notice with automatically updating year
-- Consistent styling with the rest of the Grandeur Tailors site
+- Consistent styling with the rest of the Chrisings Collections site
 - No dependencies on global styles
 `
 

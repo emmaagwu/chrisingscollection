@@ -17,7 +17,7 @@ export default function AboutPage() {
         {/* Hero Banner */}
         <HeroBanner
           title="About Us"
-          description="Founded in 2017 and based in Abeokuta, Nigeria, Grandeur Tailors is a custom tailor shop with a strong commitment and dedication to excellence."
+          description="Founded in 2017 and based in Aba, Nigeria, Chrisings Collections is a custom tailor shop with a strong commitment and dedication to excellence."
           bgColor="#683D0D"
         />
 

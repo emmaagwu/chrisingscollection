@@ -29,7 +29,7 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
     <>
       <Navbar />
       <Marquee
-        text="FREE SHIPPING ON ALL ORDERS OVER $150 • NEW COLLECTION AVAILABLE NOW • USE CODE 'GRANDEUR10' FOR 10% OFF"
+        text="FREE SHIPPING ON ALL ORDERS OVER $150 • NEW COLLECTION AVAILABLE NOW • USE CODE 'Chrisings10' FOR 10% OFF"
         speed="normal"
       />
       <main className="min-h-screen pt-20">

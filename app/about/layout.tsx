@@ -2,8 +2,8 @@ import type React from "react"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "About Us | Grandeur Tailors",
-  description: "Learn about Grandeur Tailors, our mission, and our commitment to quality tailoring since 2017.",
+  title: "About Us | Chrisings Collections",
+  description: "Learn about Chrisings Collections, our mission, and our commitment to quality tailoring since 2017.",
 }
 
 export default function AboutLayout({

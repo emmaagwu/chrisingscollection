@@ -22,10 +22,10 @@ export default function ContactInfo({ className }: ContactInfoProps) {
           <div>
             <p className="text-sm font-medium text-[#8D6E63]">Email:</p>
             <Link
-              href="mailto:grandeurtailors@gmail.com"
+              href="mailto:christianogbonnaya207@gmail.com"
               className="text-gray-700 hover:text-[#5D4037] hover:underline"
             >
-              grandeurtailors@gmail.com
+              christianogbonnaya207@gmail.com
             </Link>
           </div>
         </div>
@@ -36,7 +36,7 @@ export default function ContactInfo({ className }: ContactInfoProps) {
           <div>
             <p className="text-sm font-medium text-[#8D6E63]">Phone Number:</p>
             <Link href="tel:+2347080250212" className="text-gray-700 hover:text-[#5D4037] hover:underline">
-              +234 708 025 0212
+              +234 706 727 9684
             </Link>
           </div>
         </div>
@@ -50,13 +50,13 @@ export default function ContactInfo({ className }: ContactInfoProps) {
               <li className="flex items-start">
                 <span className="mr-2 text-[#8D6E63]">•</span>
                 <p className="text-gray-700">
-                  A5, The Greyheights, Ope-Daniel, Taiwo Street, Ikate, Lekki, Lagos State.
+                  109 Jubilee Road By Mosque, Aba, Abia State
                 </p>
               </li>
               <li className="flex items-start">
                 <span className="mr-2 text-[#8D6E63]">•</span>
                 <p className="text-gray-700">
-                  19A, Alake Street, Opposite Abeokuta South LG Secretariat, Ake, Abeokuta, Ogun State.
+                  10 Royal Avenue, Ogborhill, Aba, Abia State
                 </p>
               </li>
             </ul>

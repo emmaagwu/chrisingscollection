@@ -17,8 +17,8 @@ export default function Footer({ className }: FooterProps) {
           <div className="flex flex-col lg:col-span-3">
             <Link href="/" className="mb-4 inline-block">
               <div className="flex flex-col">
-                <span className="text-2xl font-bold tracking-tighter">Grandeur</span>
-                <span className="text-lg italic font-light">Tailors</span>
+                <span className="text-2xl font-bold tracking-tighter">Chrisings</span>
+                <span className="text-lg italic font-light">Collections</span>
               </div>
             </Link>
             <div className="mt-2 flex space-x-4">
@@ -49,22 +49,22 @@ export default function Footer({ className }: FooterProps) {
             <div className="flex flex-col space-y-4 text-sm">
               <div className="flex items-start">
                 <MapPin className="mr-2 mt-1 h-4 w-4 flex-shrink-0" />
-                <p>A5, The Greyheights, Ope-Daniel, Taiwo Street, Ikate, Lekki, Lagos State.</p>
+                <p>109 Jubilee Road By Mosque, Aba, Abia State</p>
               </div>
               <div className="flex items-start">
                 <MapPin className="mr-2 mt-1 h-4 w-4 flex-shrink-0" />
-                <p>19A, Alake Street, Opposite Abeokuta South LG Secretariat, Ake, Abeokuta, Ogun State.</p>
+                <p>10 Royal Avenue, Ogborhill, Aba, Abia State</p>
               </div>
               <div className="flex items-center">
                 <Mail className="mr-2 h-4 w-4 flex-shrink-0" />
-                <a href="mailto:grandeurtailors@gmail.com" className="hover:underline">
-                  grandeurtailors@gmail.com
+                <a href="mailto:christianogbonnaya207@gmail.com" className="hover:underline">
+                  christianogbonnaya207@gmail.com
                 </a>
               </div>
               <div className="flex items-center">
                 <Phone className="mr-2 h-4 w-4 flex-shrink-0" />
                 <a href="tel:+2347080250212" className="hover:underline">
-                  +234 708 025 0212
+                  +234 706 727 9684
                 </a>
               </div>
             </div>
@@ -115,7 +115,7 @@ export default function Footer({ className }: FooterProps) {
 
         {/* Copyright */}
         <div className="mt-8 text-center text-sm">
-          <p>Grandeur Tailors ©{currentYear} All Rights Reserved</p>
+          <p>Chrisings Collections ©{currentYear} All Rights Reserved</p>
         </div>
       </div>
     </footer>

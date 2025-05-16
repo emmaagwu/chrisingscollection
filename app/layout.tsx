@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Chrissings Collection",
   description: "Premium tailored clothing for all occasions",
-  generator: "Agwu Emmanuel",
+  generator: "Agwu Emmanuel",  
 };
 
 export default function RootLayout({

@@ -2,9 +2,9 @@ import type React from "react"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Contact Us | Grandeur Tailors",
+  title: "Contact Us | Chrisings Collections",
   description:
-    "Get in touch with Grandeur Tailors. Visit our locations in Lagos and Abeokuta or contact us via email and phone.",
+    "Get in touch with Chrisings Collections. Visit our locations in Lagos and Aba or contact us via email and phone.",
 }
 
 export default function ContactLayout({

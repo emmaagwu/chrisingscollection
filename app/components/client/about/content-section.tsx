@@ -14,7 +14,7 @@ export default function ContentSection({
   title,
   description,
   imageUrl,
-  imageAlt = "Grandeur Tailors clothing",
+  imageAlt = "Chrisings Collections clothing",
   reversed = false,
   className,
 }: ContentSectionProps) {

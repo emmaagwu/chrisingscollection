@@ -9,7 +9,7 @@ export default function FAQPage() {
     <>
       <Navbar />
       <Marquee
-        text="FREE SHIPPING ON ALL ORDERS OVER $150 • NEW COLLECTION AVAILABLE NOW • USE CODE 'GRANDEUR10' FOR 10% OFF"
+        text="FREE SHIPPING ON ALL ORDERS OVER $150 • NEW COLLECTION AVAILABLE NOW • USE CODE 'Chrisings10' FOR 10% OFF"
         speed="normal"
       />
 

@@ -17,11 +17,11 @@ export const faqData: FAQCategory[] = [
         answer: (
           <>
             <p className="mb-2">
-              Our Lagos office is located at: A5, The Greyheights, Ope-Daniel, Taiwo Street, Ikate, Lekki, Lagos State.
+              Our Aba office is located at: 109 Jubilee Road By Mosque, Aba, Abia State
             </p>
             <p>
-              Our Abeokuta office is located at: 19A Alake Street, directly opposite the Abeokuta South Local Government
-              Secretariat, Ake, Abeokuta.
+              Our Aba office is located at: 19A Alake Street, directly opposite the Aba South Local Government
+              Secretariat, Ake, Aba.
             </p>
           </>
         ),
@@ -43,7 +43,7 @@ export const faqData: FAQCategory[] = [
         question: "Can you come and measure me at my office?",
         answer: (
           <p>
-            Yes, we offer a premium service where our tailors can visit clients within Lagos and Abeokuta for
+            Yes, we offer a premium service where our tailors can visit clients within Lagos and Aba for
             measurements. This service is available by appointment and may incur an additional fee depending on your
             location.
           </p>
