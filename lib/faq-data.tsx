@@ -27,7 +27,7 @@ export const faqData: FAQCategory[] = [
         ),
       },
       {
-        question: "How do you cater for my measurements since I&apos;m far away?",
+        question: "How do you cater for my measurements since I am far away?",
         answer: (
           <>
             <p>We have several options for remote clients:</p>

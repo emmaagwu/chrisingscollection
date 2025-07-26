@@ -75,7 +75,7 @@ export default function Footer({ className }: FooterProps) {
             <h3 className="mb-4 text-base font-semibold uppercase">Products</h3>
             <ul className="flex flex-col space-y-2 text-sm">
               <li>
-                <Link href="/category/Senators" className="hover:underline">
+                <Link href="/category/Senator" className="hover:underline">
                   Senators
                 </Link>
               </li>
