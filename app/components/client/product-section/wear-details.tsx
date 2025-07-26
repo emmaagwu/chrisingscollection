@@ -57,7 +57,7 @@ export default function WearDetails({ id, code, price, imageUrl, className }: We
       </div>
 
       <div className="flex items-center justify-between">
-        <span className="text-lg font-bold text-[#5D4037]">${price.toFixed(2)}</span>
+        <span className="text-lg font-bold text-[#5D4037]">₦{price.toFixed(2)}</span>
         <Link
           href={whatsappLink}
           className="flex items-center space-x-1 text-sm font-medium text-[#A1887F] transition-colors hover:text-[#5D4037]"
