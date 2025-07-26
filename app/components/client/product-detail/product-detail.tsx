@@ -85,7 +85,7 @@ export default function ProductDetail({ product }: ProductDetailProps) {
             {/* Product Code and Price */}
             <div className="mb-6 flex items-center justify-between">
               <span className="text-sm font-medium text-gray-500">Code: {product.code}</span>
-              <span className="text-2xl font-bold text-[#5D4037]">${product.price.toFixed(2)}</span>
+              <span className="text-2xl font-bold text-[#5D4037]">₦{product.price.toFixed(2)}</span>
             </div>
 
             {/* Material and Features */}
